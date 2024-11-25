@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "name": "Davide",
+      "surname": "Visco",
+      "email": "davide.visco@email.com",
+      "phone": "3665253007",
+      "isFav": false,
+      "id": "b8c2"
+    },
+    {
+      "id": "a63f",
+      "name": "Mimmo",
+      "surname": "Ventura",
+      "email": "domesalmo@test.com",
+      "phone": "3331234567",
+      "isFav": true
+    }
+  ]
+}
